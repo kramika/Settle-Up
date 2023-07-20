@@ -1,8 +1,5 @@
-# Split-is-Fun
+# Settle-Up
 # Splitting bills with friends and family can be stressful or awkward. Split is Fun app help roommates, travelers, couples, and friends organize their shared expenses so everyone knows who owes who.
-
-# Working of the App:
-https://user-images.githubusercontent.com/74361880/144001993-a165c7f6-3935-4e5d-9cb6-ea1046ba0809.mp4
 
 ## The Welcome screen layout
 
