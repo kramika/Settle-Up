@@ -1,5 +1,5 @@
 # Settle-Up
-# Splitting bills with friends and family can be stressful or awkward. Split is Fun app help roommates, travelers, couples, and friends organize their shared expenses so everyone knows who owes who.
+# Splitting bills with friends and family can be stressful or awkward. Settle Up app help roommates, travelers, couples, and friends organize their shared expenses so everyone knows who owes who.
 
 ## The Welcome screen layout
 
